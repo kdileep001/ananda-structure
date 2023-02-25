@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Anrt"
+        tools:targetApi="31">
+        <activity
+            android:name=".sundargarh5"
+            android:exported="false" />
+        <activity
+            android:name=".sundargarh4"
+            android:exported="false" />
+        <activity
+            android:name=".sundargarh3"
+            android:exported="false" />
+        <activity
+            android:name=".sundargarh2"
+            android:exported="false" />
+        <activity
+            android:name=".sundargarh1"
+            android:exported="false" />
+        <activity
+            android:name=".subarnapur5"
+            android:exported="false" />
+        <activity
+            android:name=".subarnapur4"
+            android:exported="false" />
+        <activity
+            android:name=".subarnapur3"
+            android:exported="false" />
+        <activity
+            android:name=".subarnapur2"
+            android:exported="false" />
+        <activity
+            android:name=".subarnapur1"
+            android:exported="false" />
+        <activity
+            android:name=".sambalpur5"
+            android:exported="false" />
+        <activity
+            android:name=".sambalpur4"
+            android:exported="false" />
+        <activity
+            android:name=".sambalpur3"
+            android:exported="false" />
+        <activity
+            android:name=".sambalpur2"
+            android:exported="false" />
+        <activity
+            android:name=".sambalpur1"
+            android:exported="false" />
+        <activity
+            android:name=".rayagada5"
+            android:exported="false" />
+        <activity
+            android:name=".rayagada4"
+            android:exported="false" />
+        <activity
+            android:name=".rayagada3"
+            android:exported="false" />
+        <activity
+            android:name=".rayagada2"
+            android:exported="false" />
+        <activity
+            android:name=".rayagada1"
+            android:exported="false" />
+        <activity
+            android:name=".puri5"
+            android:exported="false" />
+        <activity
+            android:name=".puri4"
+            android:exported="false" />
+        <activity
+            android:name=".puri3"
+            android:exported="false" />
+        <activity
+            android:name=".puri2"
+            android:exported="false" />
+        <activity
+            android:name=".puri1"
+            android:exported="false" />
+        <activity
+            android:name=".nuapada5"
+            android:exported="false" />
+        <activity
+            android:name=".nuapada4"
+            android:exported="false" />
+        <activity
+            android:name=".nuapada3"
+            android:exported="false" />
+        <activity
+            android:name=".nuapada2"
+            android:exported="false" />
+        <activity
+            android:name=".nuapada1"
+            android:exported="false" />
+        <activity
+            android:name=".nayagarh5"
+            android:exported="false" />
+        <activity
+            android:name=".nayagarh4"
+            android:exported="false" />
+        <activity
+            android:name=".nayagarh3"
+            android:exported="false" />
+        <activity
+            android:name=".nayagarh2"
+            android:exported="false" />
+        <activity
+            android:name=".nayagarh1"
+            android:exported="false" />
+        <activity
+            android:name=".nabarangpur5"
+            android:exported="false" />
+        <activity
+            android:name=".nabarangpur4"
+            android:exported="false" />
+        <activity
+            android:name=".nabarangpur3"
+            android:exported="false" />
+        <activity
+            android:name=".nabarangpur2"
+            android:exported="false" />
+        <activity
+            android:name=".nabarangpur1"
+            android:exported="false" />
+        <activity
+            android:name=".mayurbhanj5"
+            android:exported="false" />
+        <activity
+            android:name=".mayurbhanj4"
+            android:exported="false" />
+        <activity
+            android:name=".mayurbhanj3"
+            android:exported="false" />
+        <activity
+            android:name=".mayurbhanj2"
+            android:exported="false" />
+        <activity
+            android:name=".mayurbhanj1"
+            android:exported="false" />
+        <activity
+            android:name=".malkangiri4"
+            android:exported="false" />
+        <activity
+            android:name=".malkangiri3"
+            android:exported="false" />
+        <activity
+            android:name=".malkangiri2"
+            android:exported="false" />
+        <activity
+            android:name=".malkangiri1"
+            android:exported="false" />
+        <activity
+            android:name=".koraput5"
+            android:exported="false" />
+        <activity
+            android:name=".koraput4"
+            android:exported="false" />
+        <activity
+            android:name=".koraput3"
+            android:exported="false" />
+        <activity
+            android:name=".koraput2"
+            android:exported="false" />
+        <activity
+            android:name=".koraput1"
+            android:exported="false" />
+        <activity
+            android:name=".khordha5"
+            android:exported="false" />
+        <activity
+            android:name=".khordha3"
+            android:exported="false" />
+        <activity
+            android:name=".khordha4"
+            android:exported="false" />
+        <activity
+            android:name=".khordha2"
+            android:exported="false" />
+        <activity
+            android:name=".khordha1"
+            android:exported="false" />
+        <activity
+            android:name=".keonjhur5"
+            android:exported="false" />
+        <activity
+            android:name=".keonjhur4"
+            android:exported="false" />
+        <activity
+            android:name=".keonjhur3"
+            android:exported="false" />
+        <activity
+            android:name=".keonjhur2"
+            android:exported="false" />
+        <activity
+            android:name=".keonjhur1"
+            android:exported="false" />
+        <activity
+            android:name=".kendrapada4"
+            android:exported="false" />
+        <activity
+            android:name=".kendrapada3"
+            android:exported="false" />
+        <activity
+            android:name=".kendrapada5"
+            android:exported="false" />
+        <activity
+            android:name=".kendrapada2"
+            android:exported="false" />
+        <activity
+            android:name=".kendrapada1"
+            android:exported="false" />
+        <activity
+            android:name=".kandhmal5"
+            android:exported="false" />
+        <activity
+            android:name=".kandhmal4"
+            android:exported="false" />
+        <activity
+            android:name=".kandhmal3"
+            android:exported="false" />
+        <activity
+            android:name=".kandhmal2"
+            android:exported="false" />
+        <activity
+            android:name=".kandhmal1"
+            android:exported="false" />
+        <activity
+            android:name=".kalahandi5"
+            android:exported="false" />
+        <activity
+            android:name=".kalahandi4"
+            android:exported="false" />
+        <activity
+            android:name=".kalahandi3"
+            android:exported="false" />
+        <activity
+            android:name=".kalahandi2"
+            android:exported="false" />
+        <activity
+            android:name=".kalahandi1"
+            android:exported="false" />
+        <activity
+            android:name=".jharsugda4"
+            android:exported="false" />
+        <activity
+            android:name=".jharsugda5"
+            android:exported="false" />
+        <activity
+            android:name=".jharsugda3"
+            android:exported="false" />
+        <activity
+            android:name=".jharsugda2"
+            android:exported="false" />
+        <activity
+            android:name=".jharsugda1"
+            android:exported="false" />
+        <activity
+            android:name=".jajpur5"
+            android:exported="false" />
+        <activity
+            android:name=".jajpur4"
+            android:exported="false" />
+        <activity
+            android:name=".jajpur3"
+            android:exported="false" />
+        <activity
+            android:name=".jajpur2"
+            android:exported="false" />
+        <activity
+            android:name=".jajpur1"
+            android:exported="false" />
+        <activity
+            android:name=".jagatsingpur5"
+            android:exported="false" />
+        <activity
+            android:name=".jagatsingpur4"
+            android:exported="false" />
+        <activity
+            android:name=".jagatsingpur3"
+            android:exported="false" />
+        <activity
+            android:name=".jagatsingpur2"
+            android:exported="false" />
+        <activity
+            android:name=".jagatsingpur1"
+            android:exported="false" />
+        <activity
+            android:name=".ganjam5"
+            android:exported="false" />
+        <activity
+            android:name=".ganjam4"
+            android:exported="false" />
+        <activity
+            android:name=".ganjam3"
+            android:exported="false" />
+        <activity
+            android:name=".ganjam2"
+            android:exported="false" />
+        <activity
+            android:name=".ganjam1"
+            android:exported="false" />
+        <activity
+            android:name=".gajpati5"
+            android:exported="false" />
+        <activity
+            android:name=".gajpati4"
+            android:exported="false" />
+        <activity
+            android:name=".gajpati3"
+            android:exported="false" />
+        <activity
+            android:name=".gajpati2"
+            android:exported="false" />
+        <activity
+            android:name=".gajpati1"
+            android:exported="false" />
+        <activity
+            android:name=".dhenkanal5"
+            android:exported="false" />
+        <activity
+            android:name=".dhenkanal4"
+            android:exported="false" />
+        <activity
+            android:name=".dhenkanal3"
+            android:exported="false" />
+        <activity
+            android:name=".dhenkanal2"
+            android:exported="false" />
+        <activity
+            android:name=".dhenkanal1"
+            android:exported="false" />
+        <activity
+            android:name=".deogarh5"
+            android:exported="false" />
+        <activity
+            android:name=".deogarh4"
+            android:exported="false" />
+        <activity
+            android:name=".deogarh3"
+            android:exported="false" />
+        <activity
+            android:name=".deogarh2"
+            android:exported="false" />
+        <activity
+            android:name=".deogarh1"
+            android:exported="false" />
+        <activity
+            android:name=".cuttack5"
+            android:exported="false" />
+        <activity
+            android:name=".cuttack4"
+            android:exported="false" />
+        <activity
+            android:name=".cuttack3"
+            android:exported="false" />
+        <activity
+            android:name=".cuttack2"
+            android:exported="false" />
+        <activity
+            android:name=".cuttack1"
+            android:exported="false" />
+        <activity
+            android:name=".boudh5"
+            android:exported="false" />
+        <activity
+            android:name=".boudh4"
+            android:exported="false" />
+        <activity
+            android:name=".boudh3"
+            android:exported="false" />
+        <activity
+            android:name=".boudh2"
+            android:exported="false" />
+        <activity
+            android:name=".boudh1"
+            android:exported="false" />
+        <activity
+            android:name=".bhadrak5"
+            android:exported="false" />
+        <activity
+            android:name=".bhadrak4"
+            android:exported="false" />
+        <activity
+            android:name=".bhadrak3"
+            android:exported="false" />
+        <activity
+            android:name=".bhadrak2"
+            android:exported="false" />
+        <activity
+            android:name=".bhadrak1"
+            android:exported="false" />
+        <activity
+            android:name=".bargarh5"
+            android:exported="false" />
+        <activity
+            android:name=".bargarh4"
+            android:exported="false" />
+        <activity
+            android:name=".bargarh3"
+            android:exported="false" />
+        <activity
+            android:name=".baragarh2"
+            android:exported="false" />
+        <activity
+            android:name=".bargarh1"
+            android:exported="false" />
+        <activity
+            android:name=".balasore5"
+            android:exported="false" />
+        <activity
+            android:name=".balasore4"
+            android:exported="false" />
+        <activity
+            android:name=".balasore3"
+            android:exported="false" />
+        <activity
+            android:name=".balasore2"
+            android:exported="false" />
+        <activity
+            android:name=".balsore1"
+            android:exported="false" />
+        <activity
+            android:name=".Balangri5"
+            android:exported="false" />
+        <activity
+            android:name=".Balangri4"
+            android:exported="false" />
+        <activity
+            android:name=".Balangri3"
+            android:exported="false" />
+        <activity
+            android:name=".Balangri2"
+            android:exported="false" />
+        <activity
+            android:name=".Balangri1"
+            android:exported="false" />
+        <activity
+            android:name=".Angul5"
+            android:exported="false" />
+        <activity
+            android:name=".Angul4"
+            android:exported="false" />
+        <activity
+            android:name=".Angul3"
+            android:exported="false" />
+        <activity
+            android:name=".Angul2"
+            android:exported="false" />
+        <activity
+            android:name=".Angul1"
+            android:exported="false" />
+        <activity
+            android:name=".balasore"
+            android:exported="false" />
+        <activity
+            android:name=".khordha"
+            android:exported="false" />
+        <activity
+            android:name=".Balangir"
+            android:exported="false" />
+        <activity
+            android:name=".sundargarh"
+            android:exported="false" />
+        <activity
+            android:name=".subarnapur"
+            android:exported="false" />
+        <activity
+            android:name=".sambalpur"
+            android:exported="false" />
+        <activity
+            android:name=".rayagada"
+            android:exported="false" />
+        <activity
+            android:name=".puri"
+            android:exported="false" />
+        <activity
+            android:name=".nuapada"
+            android:exported="false" />
+        <activity
+            android:name=".nayagarh"
+            android:exported="false" />
+        <activity
+            android:name=".nabarangpur"
+            android:exported="false" />
+        <activity
+            android:name=".mayurbhanj"
+            android:exported="false" />
+        <activity
+            android:name=".malkangiri"
+            android:exported="false" />
+        <activity
+            android:name=".koraput"
+            android:exported="false" />
+        <activity
+            android:name=".keonjhur"
+            android:exported="false" />
+        <activity
+            android:name=".kalahandi"
+            android:exported="false" />
+        <activity
+            android:name=".kendrapada"
+            android:exported="false" />
+        <activity
+            android:name=".kandhmal"
+            android:exported="false" />
+        <activity
+            android:name=".jharsugda"
+            android:exported="false" />
+        <activity
+            android:name=".jajpur"
+            android:exported="false" />
+        <activity
+            android:name=".jagatsingpur"
+            android:exported="false" />
+        <activity
+            android:name=".ganjam"
+            android:exported="false" />
+        <activity
+            android:name=".gajpati"
+            android:exported="false" />
+        <activity
+            android:name=".dhenkanal"
+            android:exported="false" />
+        <activity
+            android:name=".deogarh"
+            android:exported="false" />
+        <activity
+            android:name=".cuttack"
+            android:exported="false" />
+        <activity
+            android:name=".boudh"
+            android:exported="false" />
+        <activity
+            android:name=".bhadrak"
+            android:exported="false" />
+        <activity
+            android:name=".bargarh"
+            android:exported="false" />
+        <activity
+            android:name=".Angul"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
